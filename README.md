@@ -1,3 +1,5 @@
+**Live Demo:** https://your-app-link.streamlit.app
+
 # Indian Stock Analysis Dashboard
 
 An interactive dashboard to analyze and compare Indian stocks (NSE)
