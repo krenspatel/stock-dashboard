@@ -27,9 +27,9 @@ streamlit run app.py
 - **Lagging indicator:** Moving average crossovers (golden/death cross) signal *after* the price has already moved, so they are not reliable on their own for trading decisions. They work better when combined with indicators like volume and RSI.
 - **Limitation:** This analysis is based only on historical data and is not investment advice.
 
-## Screenshots
-![Price Chart](screenshots/price_chart.png)
-![Comparison](screenshots/comparison.png)
+
+![Price Chart](screenshote/price_chart.png)
+![Comparison](screenshote/comparison.png)
 
 ## Future Improvements
 - Add RSI and Bollinger Bands
