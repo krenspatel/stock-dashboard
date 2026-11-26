@@ -1,3 +1,5 @@
+**Live Demo:** https://stock-dashboard-hzsp3wzwt4yuwvbfsawbkq.streamlit.app/
+
 **Live Demo:** https://your-app-link.streamlit.app
 
 # Indian Stock Analysis Dashboard
